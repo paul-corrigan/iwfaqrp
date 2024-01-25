@@ -2,8 +2,9 @@
 Annual report graphics challenges:
 
 Scatterplot:
-
+The two titles are overwritten
 Would love to have the dots associated with AQI color
+
 
 
 
